@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/tylere/repositories/VSC
+    - export DEPLOYPATH=/home/tylere/repositories/VSC/
     - /bin/cp -R * $DEPLOYPATH
